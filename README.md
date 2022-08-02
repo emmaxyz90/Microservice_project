@@ -1,7 +1,7 @@
 
 # Microservice_project
 
-[![CircleCI](https://circleci.com/gh/emmaxy90/Microservice_project/main.svg?style=svg)](https://circleci.com/gh/Microservice_project/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/emmaxyz90/Microservice_project/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/emmaxyz90/Microservice_project/tree/main)
 
 ## Project Overview
 
